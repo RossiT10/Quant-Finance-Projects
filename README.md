@@ -1,6 +1,7 @@
 # Quant-Finance-Projects
 
 Learning, experimenting, backtesting, growing.
+
 IF you want to implement these stratergies live. Change from yFinance to prefered tradingAPI (ie. AlpacaMarkets)
 
 In order of development
